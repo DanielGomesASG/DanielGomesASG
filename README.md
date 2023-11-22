@@ -1,10 +1,12 @@
-![Status](./profile-3d-contrib/profile-night-green-animate.svg)
+![Status](profile-3d-contrib/profile-night-view.svg)
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGomesASG&theme=nord_dark)] | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGomesASG&theme=nord_dark)] | ----------- | ----------- |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGomesASG&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGomesASG&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------- | ----------- |
+
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,junit,cs,dotnet,js,ts,css,html,react,nodejs,express,bootstrap,jquery,mysql,powershell,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,js,ts,css,html,react,nodejs,express,bootstrap,jquery,cs,dotnet,java,spring,mysql,powershell,discord,linkedin,instagram" />
 </a>
   <br />
   </div>
