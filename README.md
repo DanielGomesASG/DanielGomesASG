@@ -1,6 +1,6 @@
-![Status](profile-3d-contrib/profile-night-view.svg)
+![Status](profile-3d-contrib/profile-night-green.svg)
 
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGomesASG&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGomesASG&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielGomesASG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGomesASG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
 
