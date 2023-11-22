@@ -12,12 +12,6 @@
   </div>
 
 ##
-
-  <div align="center" >
-    <img src="https://github-profile-trophy.vercel.app/?username=DanielGomesASG&row=1&column=6&theme=nord_dark&margin-w=15&margin-h=15"/>
-  </div>
-  
-##
 <div align="center">
   
   ![snake gif](https://github.com/DanielGomesASG/DanielGomesASG/blob/output/github-snake-dark.svg)
