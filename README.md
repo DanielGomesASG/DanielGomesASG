@@ -1,6 +1,6 @@
 ![Status](profile-3d-contrib/profile-night-green.svg)
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGomesASG)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGomesASG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGomesASG&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielGomesASG&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
 
